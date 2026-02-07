@@ -8,7 +8,7 @@ Es el estándar en Vercel porque permite una integración nativa con su ecosiste
 Se utiliza para automatizar la revisión de reglas de programación, evitando que errores de lógica lleguen a producción y manteniendo la deuda técnica al mínimo.
 - *Prettier:* 
 Es fundamental para el trabajo colaborativo; al formatear el código automáticamente, elimina discusiones sobre estilos visuales y facilita la lectura de los Pull Requests. 
--*Tailwind CSS IntelliSense:* 
+- *Tailwind CSS IntelliSense:* 
 Optimiza la velocidad de desarrollo al proporcionar autocompletado y vistas previas de clases CSS, reduciendo errores visuales en la implementación de interfaces modernas.
 <img width="1365" height="639" alt="image" src="https://github.com/user-attachments/assets/b1f2d617-5745-4e81-9715-216dd375d044" />
 
